@@ -1,0 +1,46 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius:10px;
+    box-shadow: white;
+
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #E6C9A8;
+    color:#7D2E2E;
+    border-bottom: 5px solid #C1A35F;
+     border-radius: 10px;
+        
+   
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+.card:hover{
+    background-color: #FFC0CB;
+}
+
+/*
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
